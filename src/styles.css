@@ -1,0 +1,51 @@
+body {
+  background-color: #655c77;
+}
+h1 {
+  color: white;
+  font-size: 40px;
+}
+h2 {
+  color: white;
+  font-size: 16px;
+}
+h3 {
+  color: white;
+  font-size: 60px;
+}
+p {
+  color: white;
+}
+.search {
+  margin: 20px 0px;
+}
+.main {
+  padding-top: 10px;
+}
+.rain {
+  color: rgb(255, 255, 255);
+  margin-top: 40px;
+  font-size: 18px;
+}
+.other {
+  color: white;
+  margin-top: 30px;
+}
+.days {
+  background-color: #4f4564;
+  color: white;
+  padding: 10px;
+  margin: 0 auto;
+}
+.temp {
+  display: flex;
+}
+.temperature {
+  font-size: 64px;
+  color: white;
+}
+.units {
+  color: white;
+  text-align: left;
+  font-size: 16px;
+}
