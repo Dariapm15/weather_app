@@ -68,7 +68,15 @@ p {
   box-sizing: border-box;
   top: -34px;
   position: relative;
+  text-decoration: none;
 }
 .weather-temperature img {
   margin-right: 10px;
+}
+.units .active {
+  color: white;
+  cursor: default;
+}
+.units .active:hover {
+  text-decoration: none;
 }
