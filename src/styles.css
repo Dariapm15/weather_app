@@ -11,7 +11,10 @@ h2 {
 }
 h3 {
   color: white;
-  font-size: 60px;
+  font-size: 16px;
+}
+h3:first-letter {
+  text-transform: capitalize;
 }
 p {
   color: white;
@@ -67,5 +70,5 @@ p {
   position: relative;
 }
 .weather-temperature img {
-  margin-right: 15px;
+  margin-right: 10px;
 }
